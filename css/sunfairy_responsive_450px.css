@@ -3,18 +3,19 @@
     color: white;
     text-align: center;
     border: 1px solid black;
-    max-width: 540px;
-    width: 100%;
+    max-width: 450px;
+    width: 99%;
     margin-top: 50px;
 }
 
-.fairy_position {
-    display: none;
+.text_subtitle {
+    max-width: 640px;
+    width: 99%;
 }
 
 .menu li {
     display: inline;
     float: left;
     max-width: 540px;
-    width: 100%;
+    width: 99%;
 }
