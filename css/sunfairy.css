@@ -19,6 +19,7 @@ article {
     max-width: 640px;
     width: 100%;
     background-color: #1f1d19;
+    font-family: BellotaText_light;
 }
 
 header {
@@ -44,6 +45,7 @@ header img {
     border: 1px solid black;
     max-width: 640px;
     width: 100%;
+    font-family: BellotaText_light;
 }
 
 .fairy_position {

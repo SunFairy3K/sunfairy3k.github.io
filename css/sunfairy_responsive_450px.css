@@ -6,6 +6,7 @@
     max-width: 449.5px;
     width: 100%;
     margin-top: 50px;
+    font-family: BellotaText_light;
 }
 
 header img {
@@ -16,6 +17,11 @@ header img {
 .text_subtitle {
     max-width: 450px;
     width: 100%;
+    font-family: BellotaText_light;
+}
+
+.menu {
+    font-family: BellotaText_light;
 }
 
 .menu li {
