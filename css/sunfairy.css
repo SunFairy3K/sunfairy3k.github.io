@@ -3,9 +3,14 @@
     padding: 0px;
 }
 
+@font-face {
+  font-family: BellotaText_light;
+  src: url(../font/BellotaText-Light.otf);
+}
+
 a {
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: BellotaText_light;
     font-size: 14px;
     color: yellow;
 }
@@ -81,6 +86,10 @@ footer a {
 
 /* MENU */
 
+.menu {
+    font-family: BellotaText_light;
+}
+
 .menu li {
     display: inline;
     float: left;
@@ -92,7 +101,7 @@ footer a {
 .menu li a {
     display: block;
     background-color: #625232;
-    padding: 0px 36.29px;
+    padding: 0px 40.29px;
     color: white;
     font-size: 13.2px;
 }
